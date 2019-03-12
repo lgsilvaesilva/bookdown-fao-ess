@@ -33,3 +33,9 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
+```{r intro, child='sec/01-intro.Rmd'}
+```
+
+```{r welcome, child='sec/02-welcome.Rmd'}
+```
+
